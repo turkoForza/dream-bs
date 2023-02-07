@@ -6,4 +6,6 @@
 
 <p>Responsive Landing Page with Bootstrap</p>
 
+<a href="https://admirable-sprinkles-a12961.netlify.app/">Online Review</a>
+
 <img src="/images/screen.gif">
